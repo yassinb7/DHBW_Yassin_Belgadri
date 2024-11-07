@@ -1,4 +1,4 @@
-{"person" {
+{
 	"firstname": "Yassin",
 	"lastname": "Belgadri",
 	"age": 21,
@@ -8,16 +8,10 @@
 	"street": "Ellernbuschfeld",
 	"no.": 21,
 	"city": "Hannover",
-	"zip": 30539,
+	"zip": 30539
 	},
 	
-"hobbies":[
-	"photography",
-	"cooking",
-	"baking",
-	"playing the piano",
-	"languages",
-	],
+"hobbies":["photography", "cooking", "baking", "playing the piano", "languages"],
 	
 	"company": {
 		"name": "DHL",
@@ -25,6 +19,6 @@
 		},
 		
 	"isFromKarlsruhe": false
+	
 	}
 	
-}

@@ -56,11 +56,9 @@ public class jsonTest {
 	        assertArrayEquals(new String[]{"photography", "cooking", "baking", "playing the piano", "languages"}, person1.getHobbies());
 	    }
 
-		private void assertArrayEquals(String[] strings, List<String> hobbies) {
-			// TODO Auto-generated method stub
+	
 			
 		}
-	}
-
+	
 
 	
