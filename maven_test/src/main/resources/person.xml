@@ -1,0 +1,30 @@
+
+<person>
+
+    <firstname>Yassin</firstname>
+    <lastname>Belgadri</lastname>
+    <age>21</age>
+    
+    <address>
+        <street>Ellernbuschfeld</street>
+        <no>21</no>
+        <city>Hannover</city>
+        <zip>30539</zip>
+    </address>
+
+    <hobbies>
+        <hobby>photography</hobby>
+        <hobby>cooking</hobby>
+        <hobby>baking</hobby>
+        <hobby>playing the piano</hobby>
+        <hobby>languages</hobby>
+    </hobbies>
+
+    <company>
+        <name>DHL</name>
+        <headquarter_city>Hannover</headquarter_city>
+    </company>
+
+    <isFromKarlsruhe>false</isFromKarlsruhe>
+    
+</person>
