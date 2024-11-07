@@ -1,0 +1,30 @@
+{"person" {
+	"firstname": "Yassin",
+	"lastname": "Belgadri",
+	"age": 21,
+	
+
+"address": {
+	"street": "Ellernbuschfeld",
+	"no.": 21,
+	"city": "Hannover",
+	"zip": 30539,
+	},
+	
+"hobbies":[
+	"photography",
+	"cooking",
+	"baking",
+	"playing the piano",
+	"languages",
+	],
+	
+	"company": {
+		"name": "DHL",
+		"headquarter_city": "Hannover"
+		},
+		
+	"isFromKarlsruhe": false
+	}
+	
+}
