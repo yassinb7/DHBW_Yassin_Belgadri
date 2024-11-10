@@ -24,6 +24,7 @@ Logbucheintrag 24.10.24
   persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
 
 
+
 Logbucheintrag 28.10.24
 
 - Was haben wir heute gemacht?
@@ -42,7 +43,7 @@ Logbucheintrag 28.10.24
   persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
 
 
-  Logbucheintrag 30.10.24
+Logbucheintrag 30.10.24
 
 - Was haben wir heute gemacht?
   (Leider war ich an unserer dritten sesion Krank und habe aufgrund dessen nicht an der Vorlesung teilnehmen können)
@@ -59,6 +60,7 @@ Logbucheintrag 28.10.24
   
 - Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine     
   persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
+
 
 
 Logbucheintrag 04.11.24
