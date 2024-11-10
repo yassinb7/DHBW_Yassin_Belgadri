@@ -1,31 +1,36 @@
 import java.util.Arrays;
 import java.util.List;
+import jakarta.xml.bind.annotation.*;
 
-public class person {
+// 
+@XmlRootElement
+@XmlAccessorType(XmlAccessType.FIELD)
+
+public class personxml {
 
 	private String firstname;
 	private String lastname;
 	private int age;
-	private Address address;
+	private Addressxml addressxml;
 	private String hobbies[];
-	private Company company;
+	private Companyxml company;
 	private boolean isFromKarlsruhe;
 
 	// public constructor person
-	public person(String firstname, String lastname, int age, Address address, String[] hobbies, Company company,
-			boolean isFromKarlsruhe) {
+	public personxml(String firstname, String lastname, int age, Addressxml addressxml, String[] hobbies,
+			Companyxml company, boolean isFromKarlsruhe) {
 		super();
 		this.firstname = firstname;
 		this.lastname = lastname;
 		this.age = age;
-		this.address = address;
+		this.addressxml = addressxml;
 		this.hobbies = hobbies;
 		this.company = company;
 		this.isFromKarlsruhe = isFromKarlsruhe;
 	}
 
 	// empty public constructor person
-	public person() {
+	public personxml() {
 
 	}
 
@@ -54,12 +59,12 @@ public class person {
 		this.age = age;
 	}
 
-	public Address getAddress() {
-		return address;
+	public Addressxml getAddressxml() {
+		return addressxml;
 	}
 
-	public void setAddress(Address address) {
-		this.address = address;
+	public void setAddressxml(Addressxml addressxml) {
+		this.addressxml = addressxml;
 	}
 
 	public String[] getHobbies() {
@@ -70,12 +75,12 @@ public class person {
 		this.hobbies = hobbies;
 	}
 
-	public Company getCompany() {
+	public Companyxml getCompanyxml() {
 		return company;
 	}
 
-	public void setCompany(Company company) {
-		this.company = company;
+	public void setCompanyxml(Companyxml companyxml) {
+		this.company = companyxml;
 	}
 
 	public boolean isFromKarlsruhe() {
@@ -90,8 +95,8 @@ public class person {
 	public String toString() {
 		String separator = config.getSeparator();
 
-		return "person [" + separator + firstname + separator + lastname + separator + age + separator + address
-				+ separator + Arrays.toString(hobbies) + separator + company + separator + isFromKarlsruhe + "]";
+		return separator + firstname + separator + lastname + separator + age + separator + addressxml + separator
+				+ Arrays.toString(hobbies) + separator + company + separator + isFromKarlsruhe;
 	}
 
 }

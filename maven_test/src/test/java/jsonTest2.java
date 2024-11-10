@@ -47,7 +47,7 @@ public class jsonTest2 {
 			assertThat(readInUser.getAddress().getNo()).isEqualTo(21);
 			assertThat(readInUser.getAddress().getCity()).isEqualTo("Hannover");
 			assertThat(readInUser.getAddress().getZip()).isEqualTo(30539);
-			assertThat(readInUser.getCompany().getName()).isEqualTo("HL");
+			assertThat(readInUser.getCompany().getName()).isEqualTo("DHL");
 			assertThat(readInUser.getCompany().getHeadquarter_city()).isEqualTo("Hannover");
 			assertThat(readInUser.getHobbies()).contains("photography", "cooking", "baking", "playing the piano",
 					"languages");

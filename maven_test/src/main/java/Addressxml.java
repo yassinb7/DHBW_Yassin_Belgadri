@@ -1,12 +1,16 @@
 
-public class Address {
+public class Addressxml {
 
 	private String street;
 	private int no;
 	private String city;
 	private int zip;
 
-	public Address(String street, int no, String city, int zip) {
+	public Addressxml() {
+
+	}
+
+	public Addressxml(String street, int no, String city, int zip) {
 		this.street = street;
 		this.no = no;
 		this.city = city;
@@ -46,10 +50,11 @@ public class Address {
 		this.zip = zip;
 	}
 
+	// String toString ausgabe
 	@Override
 	public String toString() {
 		String separator = config.getSeparator();
-		return "Address{" + separator + street + " " + no + separator + city + separator + zip + '}';
+		return "Addressxml{" + separator + street + " " + no + separator + city + separator + zip + '}';
 
 	}
 }

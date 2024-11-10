@@ -1,10 +1,14 @@
 
-public class Company {
+public class Companyxml {
 
 	private String name;
 	private String headquarter_city;
 
-	public Company(String name, String headquarter_city) {
+	public Companyxml() {
+
+	}
+
+	public Companyxml(String name, String headquarter_city) {
 
 		this.name = name;
 		this.headquarter_city = headquarter_city;
@@ -27,10 +31,11 @@ public class Company {
 		this.headquarter_city = headquarter_city;
 	}
 
+	// String toString ausgabe
 	@Override
 	public String toString() {
 		String separator = config.getSeparator();
-		return "Company{" + separator + name + separator + headquarter_city + '}';
+		return "Companyxml{" + separator + name + separator + headquarter_city + '}';
 
 	}
 }

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personxml>
+   <firstname>Yassin</firstname>
+   <lastname>Belgadri</lastname>
+   <age>21</age>
+   <addressxml>
+      <city>Hannover</city>
+      <no>21</no>
+      <street>Ellernbuschfel</street>
+      <zip>30539</zip>
+   </addressxml>
+   <hobbies>photography</hobbies>
+   <hobbies>cooking</hobbies>
+   <hobbies>baking</hobbies>
+   <company>
+      <headquarter_city>Hannover</headquarter_city>
+      <name>DHL</name>
+   </company>
+   <isFromKarlsruhe>false</isFromKarlsruhe>
+</personxml>
