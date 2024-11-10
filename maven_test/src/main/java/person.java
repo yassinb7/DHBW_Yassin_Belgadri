@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.List;
 
 public class person {
@@ -10,8 +11,10 @@ public class person {
 	private Company company;
 	private boolean isFromKarlsruhe;
 
+	// public constructor person
 	public person(String firstname, String lastname, int age, Address address, String[] hobbies, Company company,
 			boolean isFromKarlsruhe) {
+		super();
 		this.firstname = firstname;
 		this.lastname = lastname;
 		this.age = age;
@@ -21,11 +24,12 @@ public class person {
 		this.isFromKarlsruhe = isFromKarlsruhe;
 	}
 
+	// empty public constructor person
 	public person() {
 
 	}
 
-	// Getter Setter
+	// getter and setter methods
 	public String getFirstname() {
 		return firstname;
 	}
@@ -62,7 +66,7 @@ public class person {
 		return hobbies;
 	}
 
-	public void setHobbies(String hobbies[]) {
+	public void setHobbies(String[] hobbies) {
 		this.hobbies = hobbies;
 	}
 
@@ -84,9 +88,9 @@ public class person {
 
 	@Override
 	public String toString() {
-		return "Person{" + "\n" + "firstname=" + firstname + "\n" + "lastname=" + lastname + "\n" + "age=" + age + "\n"
-				+ "\n" + "address=" + address + "\n" + "hobbies=" + hobbies + "\n" + "company=" + company + "\n"
-				+ "isFromKarlsruhe=" + isFromKarlsruhe + "\n" + '}';
+		return "person [" + "\n" + "firstname= " + firstname + "\n" + "lastname= " + lastname + "\n" + "age= " + age
+				+ "\n" + "\n" + "address=" + address + "\n" + "\n" + "hobbies=" + Arrays.toString(hobbies) + "\n" + "\n"
+				+ "company= " + company + "\n" + "isFromKarlsruhe= " + isFromKarlsruhe + "\n" + "]";
 	}
 
 }
