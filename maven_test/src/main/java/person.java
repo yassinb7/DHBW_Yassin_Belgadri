@@ -6,7 +6,7 @@ public class person {
 	private String lastname;
 	private int age;
 	private Address address;
-	private String[] hobbies;
+	private String hobbies[];
 	private Company company;
 	private boolean isFromKarlsruhe;
 
@@ -62,7 +62,7 @@ public class person {
 		return hobbies;
 	}
 
-	public void setHobbies(String[] hobbies) {
+	public void setHobbies(String hobbies[]) {
 		this.hobbies = hobbies;
 	}
 
@@ -84,9 +84,9 @@ public class person {
 
 	@Override
 	public String toString() {
-		return "Person{" + "firstname='" + firstname + '\'' + ", lastname='" + lastname + '\'' + ", age=" + age
-				+ ", address=" + address + ", hobbies=" + hobbies + ", company=" + company + ", isFromKarlsruhe="
-				+ isFromKarlsruhe + '}';
+		return "Person{" + "\n" + "firstname=" + firstname + "\n" + "lastname=" + lastname + "\n" + "age=" + age + "\n"
+				+ "\n" + "address=" + address + "\n" + "hobbies=" + hobbies + "\n" + "company=" + company + "\n"
+				+ "isFromKarlsruhe=" + isFromKarlsruhe + "\n" + '}';
 	}
 
 }

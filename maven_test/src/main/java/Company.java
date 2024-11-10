@@ -29,7 +29,7 @@ public class Company {
 
 	@Override
 	public String toString() {
-		return "Company{" + "name='" + name + '\'' + ", headquarter_city='" + headquarter_city + '\'' + '}';
+		return "Company{" + "name=" + name + "\n" + "headquarter_city=" + headquarter_city + "\n" + '}';
 
 	}
 }
