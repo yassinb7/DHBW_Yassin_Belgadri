@@ -21,7 +21,8 @@ Logbucheintrag 24.10.24
   
 - Warum interessiert dich dieses Thema oder warum gerade nicht?
 
-- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine   persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
+- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine  
+  persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
 
 
 
@@ -39,8 +40,7 @@ Logbucheintrag 28.10.24
   
 - Warum interessiert dich dieses Thema oder warum gerade nicht?
   
-- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine     
-  persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
+- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine    persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
 
 
 Logbucheintrag 30.10.24
@@ -58,8 +58,7 @@ Logbucheintrag 30.10.24
   
 - Warum interessiert dich dieses Thema oder warum gerade nicht?
   
-- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine     
-  persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
+- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine    persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
 
 
 
@@ -67,6 +66,7 @@ Logbucheintrag 04.11.24
 
 - Was haben wir heute gemacht?
   Wir haben mit dem mob Programming angefangen.
+  
 - Warum könnte dieses Thema für dich wichtig sein?
   
 - Was hast du deiner Einschätzung nach gut verstanden, was nicht?
@@ -96,8 +96,7 @@ Logbucheintrag 07.11.24 + 10.11.24
   
 - Warum interessiert dich dieses Thema oder warum gerade nicht?
   
-- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine     
-  persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
+- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine    persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
 
 
 Logbucheintrag 13.11.24
@@ -114,6 +113,5 @@ Logbucheintrag 13.11.24
   
 - Warum interessiert dich dieses Thema oder warum gerade nicht?
   
-- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine     
-  persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
+- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine    persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
 
