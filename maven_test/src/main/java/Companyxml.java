@@ -1,6 +1,7 @@
 
 public class Companyxml {
 
+	// private variabel
 	private String name;
 	private String headquarter_city;
 

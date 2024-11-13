@@ -8,6 +8,7 @@ import jakarta.xml.bind.annotation.*;
 
 public class personxml {
 
+	// private variabel
 	private String firstname;
 	private String lastname;
 	private int age;
@@ -91,6 +92,7 @@ public class personxml {
 		this.isFromKarlsruhe = isFromKarlsruhe;
 	}
 
+	// String toString ausgabe
 	@Override
 	public String toString() {
 		String separator = config.getSeparator();

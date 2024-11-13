@@ -1,6 +1,7 @@
 
 public class Addressxml {
 
+	// private variabel
 	private String street;
 	private int no;
 	private String city;
