@@ -8,7 +8,8 @@ Logbucheintrag 24.10.24
   Und wir haben versucht Maven und Jdk mit Git hub durch inastnz variablen zu verküpfen.
   
 - Warum könnte dieses Thema für dich wichtig sein?
-  Um in zukunft meine komplexeren Programme auf Git zwischen zu speichern
+  Um in zukunft meine komplexeren Programme auf Git zwischen zu speichern.
+  
 - Was hast du deiner Einschätzung nach gut verstanden, was nicht?
   Noch nicht viel da das einrichten leider noch nicht beendet werden konnte.
   
@@ -19,9 +20,8 @@ Logbucheintrag 24.10.24
   Momentan keine.
   
 - Warum interessiert dich dieses Thema oder warum gerade nicht?
-- 
-- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine   
-  persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
+
+- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine   persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
 
 
 
@@ -82,29 +82,10 @@ Logbucheintrag 04.11.24
 
   
 
-Logbucheintrag 07.11.24
+Logbucheintrag 07.11.24 + 10.11.24
 
-- Was haben wir heute gemacht?
+- Was haben wir gemacht?
   Uns zu fünft getroffen und uns zusammen an die Json und Xml aufgeben gesetzt.
-- Warum könnte dieses Thema für dich wichtig sein?
-  
-- Was hast du deiner Einschätzung nach gut verstanden, was nicht?
-  
-- Was war heute dein größte inhaltliche Herausforderung?
-  
-- Welche Fragen zum Thema hast du noch?
-  
-- Warum interessiert dich dieses Thema oder warum gerade nicht?
-  
-- Was ist deine eigene Erkenntnis jetzt wo du dieses Wissen hast (z.B. Transferfragen, Transfererkenntnisse, Parallelen zu anderen Bereichen? Es könnte auch eine     
-  persönlich Erkenntnis sein, die nichts mit dem Thema zu tun hat.
-
-
-
-Logbucheintrag 10.11.24
-
-- Was haben wir heute gemacht?
-  in der selben Gruppe die Aufgaben zu Json und Xml beendet.
 - Warum könnte dieses Thema für dich wichtig sein?
   
 - Was hast du deiner Einschätzung nach gut verstanden, was nicht?
