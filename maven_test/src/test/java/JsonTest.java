@@ -1,5 +1,7 @@
 import java.util.List;
 
+import org.junit.jupiter.api.Test;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
@@ -9,8 +11,9 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class TestJson {
+public class JsonTest {
 
+	@Test
 	public static void main(String[] args) {
 
 		Gson gsonBuilder = new GsonBuilder().setPrettyPrinting().create();

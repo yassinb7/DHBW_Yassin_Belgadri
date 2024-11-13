@@ -2,9 +2,13 @@
 import static org.assertj.core.api.Assertions.assertThat;
 
 import java.io.File;
+
+import org.junit.jupiter.api.Test;
+
 import jakarta.xml.bind.*;
 
 public class TestXml {
+	@Test
 	public static void main(String[] args) {
 
 		JAXBContext jaxbContext = null;
