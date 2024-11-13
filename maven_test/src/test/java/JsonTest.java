@@ -14,7 +14,8 @@ import java.io.IOException;
 public class JsonTest {
 
 	@Test
-	public static void main(String[] args) {
+
+	public void JavatoJson() {
 
 		Gson gsonBuilder = new GsonBuilder().setPrettyPrinting().create();
 		//
@@ -37,10 +38,16 @@ public class JsonTest {
 			throw new RuntimeException(e);
 		}
 
+	}
+
+	@Test
+	public void JsontoJava() {
+		Gson gsonBuilder = new GsonBuilder().setPrettyPrinting().create();
+
 		try (FileReader reader = new FileReader(System.getProperty("user.home")
 				+ "/dev/repo/DHBW_Yassin_Belgadri/maven_test/src/main/resources/person.json")) {
 			person readInUser = gsonBuilder.fromJson(reader, person.class);
-
+			System.out.println("\n\nAusabe der händisch formulierten JSON Datei:\n");
 			System.out.println(readInUser.toString());
 			// json datei wird überprüft
 			assertThat(readInUser.getFirstname()).isEqualTo("Yassin");

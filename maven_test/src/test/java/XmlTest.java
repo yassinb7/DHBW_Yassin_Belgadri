@@ -7,9 +7,9 @@ import org.junit.jupiter.api.Test;
 
 import jakarta.xml.bind.*;
 
-public class TestXml {
+public class XmlTest {
 	@Test
-	public static void main(String[] args) {
+	public void JavatoXml() {
 
 		JAXBContext jaxbContext = null;
 		try {
@@ -37,10 +37,13 @@ public class TestXml {
 		} catch (JAXBException e) {
 			e.printStackTrace();
 		}
+	}
 
-		// Selbst geschriebene XML Datei in Java Objekt einlesen / mit assertThat prüfen
-		// / und in der Konsole ausgeben
+	// Selbst geschriebene XML Datei in Java Objekt einlesen / mit assertThat prüfen
+	// / und in der Konsole ausgeben
+	@Test
 
+	public void XMLtoJava() {
 		JAXBContext jaxbContext2 = null;
 		try {
 
