@@ -9,7 +9,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class jsonTest2 {
+public class JsonTest {
 
 	public static void main(String[] args) {
 

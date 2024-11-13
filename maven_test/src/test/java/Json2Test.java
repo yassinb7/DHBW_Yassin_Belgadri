@@ -5,7 +5,7 @@
 
 import java.util.List;
 
-public class jsonTest {
+public class Json2Test {
 	    @Test
 	    public void testJsonToPersonObject() {
 	        // JSON-Daten
