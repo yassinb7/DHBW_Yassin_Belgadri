@@ -180,7 +180,7 @@ Logbucheintrag 13.11.24(Mob Programming2)
   
 - Wie bewertest du Mob Programming?
   Es ist definitiv
- eine gute Übung, um als "Mob" zusammen zu denken somit kommen die verschiedenen Ideen zusammen. Und der code wird direkt für alle beteiligten
+  eine gute Übung, um als "Mob" zusammen zu denken somit kommen die verschiedenen Ideen zusammen. Und der code wird direkt für alle beteiligten
   verständlich.
   
 - Wie bewertest du TDD?
